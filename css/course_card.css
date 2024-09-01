@@ -44,5 +44,6 @@
     .course__flex__items {
         flex-direction: column;
         align-items: center;
+        gap: 20px;
     }
 }
